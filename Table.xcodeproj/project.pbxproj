@@ -14,6 +14,8 @@
 		D44616A52BFF28E200084E27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D44616A42BFF28E200084E27 /* Assets.xcassets */; };
 		D44616A82BFF28E200084E27 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = D44616A72BFF28E200084E27 /* Base */; };
 		D44616B02BFF291A00084E27 /* TableWithCodeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D44616AF2BFF291A00084E27 /* TableWithCodeTableViewController.swift */; };
+		D47AA39F2C002BDC008EBEC0 /* ShoppingTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47AA39E2C002BDC008EBEC0 /* ShoppingTableViewController.swift */; };
+		D4CA79A12C0075BD00407CFB /* ShoppingTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CA79A02C0075BD00407CFB /* ShoppingTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		D44616A72BFF28E200084E27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D44616A92BFF28E200084E27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D44616AF2BFF291A00084E27 /* TableWithCodeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableWithCodeTableViewController.swift; sourceTree = "<group>"; };
+		D47AA39E2C002BDC008EBEC0 /* ShoppingTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingTableViewController.swift; sourceTree = "<group>"; };
+		D4CA79A02C0075BD00407CFB /* ShoppingTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				D446169D2BFF28E100084E27 /* SceneDelegate.swift */,
 				D446169F2BFF28E100084E27 /* ViewController.swift */,
 				D44616AF2BFF291A00084E27 /* TableWithCodeTableViewController.swift */,
+				D47AA39E2C002BDC008EBEC0 /* ShoppingTableViewController.swift */,
+				D4CA79A02C0075BD00407CFB /* ShoppingTableViewCell.swift */,
 				D44616A12BFF28E100084E27 /* Main.storyboard */,
 				D44616A42BFF28E200084E27 /* Assets.xcassets */,
 				D44616A62BFF28E200084E27 /* LaunchScreen.storyboard */,
@@ -142,8 +148,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D44616A02BFF28E100084E27 /* ViewController.swift in Sources */,
+				D4CA79A12C0075BD00407CFB /* ShoppingTableViewCell.swift in Sources */,
 				D446169C2BFF28E100084E27 /* AppDelegate.swift in Sources */,
 				D446169E2BFF28E100084E27 /* SceneDelegate.swift in Sources */,
+				D47AA39F2C002BDC008EBEC0 /* ShoppingTableViewController.swift in Sources */,
 				D44616B02BFF291A00084E27 /* TableWithCodeTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
